@@ -1,0 +1,68 @@
+﻿@using E_Commerce.Entity
+@model Urun
+@{
+    ViewBag.Title = "UrunDetay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div id="sidebar" class="span3">
+        <div class="well well-small">
+            <ul class="nav nav-list">
+                @Html.Action("_KategoriListe", "Kategori")
+                <li style="border:0"> &nbsp;</li>
+                @Html.Action("ToplamTutar", "Cart")
+            </ul>
+        </div>
+
+       
+        @Html.Action("PopulerUrunler", "Home")
+
+    </div>
+    <div class="span9">
+        <ul class="breadcrumb">
+            <li><a href="/Home/Index/">Anasayfa</a> <span class="divider">/</span></li>
+            <li><a href="/Home/Urun/">Ürünler</a> <span class="divider">/</span></li>
+            <li class="active">Ürün Detay</li>
+        </ul>
+        <div class="well well-small">
+            <div class="row-fluid">
+                <div class="span5">
+                    <div id="myCarousel" class="carousel slide cntr">
+                       
+                            <div class="item active left">
+                                <a href="#"> <img src="~/Content/İmage/@Model.Resim" alt="" style="width:100%"></a>
+                            </div>                           
+     
+                    </div>
+                </div>
+                <div class="span7">
+                    <h3>Ürün Adı: @Model.Ad</h3>
+                    <hr class="soft">
+                    @using (Html.BeginForm("AddToCart", "Cart", new { @class = "form-horizontal qtyFrm" }))
+                    {
+                      @Html.HiddenFor(x=>x.Id)
+                            <div class="control-group">
+                                <label class="control-label"><span>Fiyatı: @Model.Fiyat TL</span></label>
+
+                            </div>
+
+
+                            <h4>Stok Adet: @Model.Stok</h4>
+                            <p>
+                                @Model.Aciklama
+                            </p><p>
+                                <button type="submit" class="shopBtn"><span class=" icon-shopping-cart"></span> Sepete Ekle</button>
+                            </p>
+                       
+                    }
+
+                </div>
+            </div>
+            <hr class="softn clr">
+
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,63 @@
+﻿@using E_Commerce.Entity
+@model IEnumerable<Urun> 
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div id="sidebar" class="span3">
+        <div class="well well-small">
+            <ul class="nav nav-list">
+                @Html.Action("_KategoriListe","Kategori")
+                <li style="border:0"> &nbsp;</li>
+           @Html.Action("ToplamTutar","Cart")     
+            </ul>
+        </div>
+
+    
+        @Html.Action("PopulerUrunler","Home")
+
+    </div>
+    <div class="span9">
+        <div class="well np">
+           @Html.Action("Slider","Home")
+        </div>
+        <!--
+        New Products
+        -->
+        
+            <h3>Ürünler </h3>
+            <hr class="soften" />
+            
+           
+                <ul class="thumbnails">
+                    @foreach (var item in Model) //ürünleri listeledik veri tabanından tel bir liste içinde döndürdük foreach ile ne kadar veri varsa getirecek.
+                    {
+                        <li class="span3">
+                            <div class="thumbnail">
+
+                                <a href="/Home/UrunDetay/@item.Id"><img src="/Content/İmage/@item.Resim" alt="" style="width:100px; height:100px;" ></a>
+                                <div class="caption cntr">
+                                    <p>@item.Ad</p>
+                                    <p><strong> @item.Fiyat ₺</strong></p>
+                                    <h4><a class="shopBtn" href="/Home/UrunDetay/@item.Id" title="add to cart"> Görüntüle </a></h4>
+                                    
+                                    <br class="clr">
+                                </div>
+                            </div>
+                        </li>
+                    }
+
+
+                </ul>
+          
+        <!--
+        Featured Products
+        -->
+        
+
+      
+    </div>
+</div>
+

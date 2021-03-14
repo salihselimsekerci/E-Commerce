@@ -1,0 +1,52 @@
+﻿@using E_Commerce.Entity
+@model IEnumerable<Order>
+@{
+    ViewBag.Title = "BekleyenSiparisler";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h3>Bekleyen Sipariş Listesi</h3>
+<table class="table table-bordered">
+    <tr>
+        <th>Sipariş Id</th>
+        <th>Sipariş Numarası</th>
+        <th>Sipariş Tarihi</th>
+        <th>Sipariş Durumu</th>
+        <th>Toplam Fiyat TL</th>
+     
+        <th></th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.OrderNumber</td>
+            <td>
+                @item.OrderDate
+            </td>
+            <td>
+                @item.OrderState
+            </td>
+            <td>
+                @item.ToplamFiyat
+            </td>
+           
+
+            <td><a class="btn btn-primary" href="@Url.Action("Details",new { id=item.Id})"><i class="fa fa-fw fa-edit"></i>Sipariş Detay</a> </td>
+
+        </tr>
+    }
+    <tbody>
+        <tr>
+            <th>Sipariş Id</th>
+            <th>Sipariş Numarası</th>
+            <th>Sipariş Tarihi</th>
+            <th>Sipariş Durumu</th>
+            <th>Toplam Fiyat TL</th>
+            
+            <th></th>
+        </tr>
+    </tbody>
+</table>
+

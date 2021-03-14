@@ -1,0 +1,54 @@
+﻿@using E_Commerce.Entity
+@model IEnumerable<Urun>
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div id="sidebar" class="span3">
+        <div class="well well-small">
+            <ul class="nav nav-list">
+                @Html.Action("_KategoriListe", "Kategori")
+                <li style="border:0"> &nbsp;</li>
+                @Html.Action("ToplamTutar", "Cart")
+            </ul>
+        </div>
+
+
+        @Html.Action("PopulerUrunler", "Home")
+
+    </div>
+    <div class="span9">
+        <!--
+        New Products
+        -->
+
+        <h3>Ürünler </h3>
+
+
+        <ul class="thumbnails">
+            @foreach (var item in Model)
+            {
+                <li class="span3">
+                    <div class="thumbnail">
+
+                        <a href="/Home/UrunDetay/@item.Id"><img src="~/Content/İmage/@item.Resim" alt="" style="width:100px; height:100px"></a>
+                        <div class="caption cntr">
+                            <p>@item.Ad</p>
+                            <p><strong> @item.Fiyat</strong></p>
+                            <h4><a class="shopBtn" href="/Home/UrunDetay/@item.Id" title="add to cart">Görüntüle </a></h4>
+
+                            <br class="clr">
+                        </div>
+                    </div>
+                </li>
+            }
+
+
+        </ul>
+
+    </div>
+</div>
+
+

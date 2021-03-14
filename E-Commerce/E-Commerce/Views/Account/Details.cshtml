@@ -1,0 +1,101 @@
+﻿@model E_Commerce.Models.OrderDetails
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="span12">
+
+        <div class="well well-small">
+
+            <table class="table table-bordered table-condensed">
+                <thead>
+                    <tr>
+                        <th>Sipariş ID</th>
+                        <th>Sipariş Numarası</th>
+                        <th>Sipariş Tarihi</th>
+                        <th>Toplam Tutar TL </th>
+                        <th>Sipariş Durum</th>
+
+                        <th>Adres</th>
+                    </tr>
+                </thead>
+                <tbody>
+                   
+                    <tr>
+                        <td>@Model.OrderId</td>
+                        <td>@Model.OrderNumber</td>
+                        <td>@Model.OrderDate</td>
+                        <td>@Model.Total</td>
+                        <td>
+                            @if (Model.OrderState == E_Commerce.Entity.OrderState.Bekleniyor)
+                            {
+                                <a class="btn btn-danger">Sipariş Bekleniyor</a>
+                            }
+                            else if (Model.OrderState == E_Commerce.Entity.OrderState.Tamamlandı)
+                            {
+                                <a class="btn btn-success">Sipariş Tamamlandı</a>
+                            }
+
+                            else if (Model.OrderState == E_Commerce.Entity.OrderState.Paketlendi)
+                            {
+                                <a class="btn btn-info">Sipariş Paketlendi</a>
+                            }
+
+                            else if (Model.OrderState == E_Commerce.Entity.OrderState.Kargolandı)
+                            {
+                                <a class="btn btn-primary">Sipariş Kargolandı</a>
+                            }
+
+                        </td>
+                        
+                        <td>@Model.Adres
+                        <br />
+                        @Model.Sehir <br />
+                        @Model.Semt <br />
+                        @Model.Mahalle <br />
+                        @Model.PostaKodu <br />
+                            </td> 
+                    </tr>
+                   
+                </tbody>
+            </table><br />
+
+            <table class="table table-bordered table-condensed">
+                <thead>
+                    <tr>
+                        <th>Resim</th>
+                        <th>Ürün Adı</th>
+                        <th>Toplam Tutar TL </th>
+                        <th>Adet</th>
+
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.OrderLines)
+                    {
+                        <tr>
+                            <td><img src="~/Content/İmage/@item.Resim" height="75" width="75" /></td>
+                            <td>@item.UrunAd</td>
+                            <td>@item.Fiyat</td>
+                            <td>@item.Adet</td>
+                            <td><a href="/Home/UrunDetay/@item.UrunId" class="btn btn-success" target="_blank">Ürün Detay</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table><br />
+
+
+
+
+
+
+            <a href="/Home/Index/" class="shopBtn btn-large"><span class="icon-arrow-left"></span>Alışverişe Devam Et </a>
+            <a href="/Cart/SiparisDetay/" class="shopBtn btn-large pull-right">Sipariş Ver <span class="icon-arrow-right"></span></a>
+
+        </div>
+    </div>
+</div>
+

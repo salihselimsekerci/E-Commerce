@@ -1,0 +1,68 @@
+﻿@using E_Commerce.Entity
+@model List<Urun>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<br />
+<a class="btn btn-primary" href="/Urun/Ekle/">
+    Yeni Ürün Ekle</a>
+<br />
+<br />
+<table class="table table-bordered">
+    <tr>
+       <th>Resim</th>
+        <th>Ad</th>
+        <th>Onaylı</th>
+        <th>Anasayfa</th>
+        <th>Popüler</th>
+      <th>Kategori</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+        <td><img src="~/Content/İmage/@item.Resim" width="80" height="60"/></td>
+            <td>@item.Ad</td>
+            <td>
+                @if (item.Onay)
+                {
+                    <label class="label label-success">Evet</label>
+                }
+                else
+                {
+                    <label class="label label-danger">Hayır</label>
+                }
+            </td>
+            <td>
+                @if (item.Anasayfa)
+                {
+                    <label class="label label-success">Evet</label>
+                }
+                else
+                {
+                    <label class="label label-danger">Hayır</label>
+                }
+            </td>
+            <td>
+                @if (item.OneCikan)
+                {
+                    <label class="label label-success">Evet</label>
+                }
+                else
+                {
+                    <label class="label label-danger">Hayır</label>
+                }
+            </td>
+           <td>@item.Kategori.Ad</td>
+       
+            <td>@Html.ActionLink("Sil", "Sil", new { id = item.Id}, new { @class = "btn btn-danger", onclick = "return confirm('Silmek İstiyor musunuz?')" })</td>
+            <td><a href="/Urun/Guncelle/@item.Id" class="btn btn-warning">Düzenle</a></td>
+        </tr>
+    }
+</table>
+
+

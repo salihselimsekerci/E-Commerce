@@ -1,0 +1,79 @@
+﻿@model E_Commerce.Entity.Urun
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form method="post">
+                <div class="form-group">
+                    <label>Ad</label>
+                    <input type="text" class="form-control" name="Ad" value="@Model.Ad" />
+                </div>
+                <div class="form-group">
+                    <label>Açıklama</label>
+                    <input type="text" class="form-control" name="Aciklama" value="@Model.Aciklama" />
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Resim, "Resim", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                    @Html.EditorFor(x => x.Resim)
+                </div>
+
+                <div class="form-group">
+                    <label>Fiyat</label>
+                    <input type="text" class="form-control" name="Fiyat" value="@Model.Fiyat" />
+                </div>
+
+                <div class="form-group">
+                    <label>Stok</label>
+                    <input type="text" class="form-control" name="Stok" value="@Model.Stok" />
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Slider, "Slider", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                    @Html.EditorFor(x => x.Slider)
+
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Anasayfa, "Anasayfa", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                    @Html.EditorFor(x => x.Anasayfa)
+
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.Onay, "Onay", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                    @Html.EditorFor(x => x.Onay)
+
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(x => x.OneCikan, "Popüler", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                    @Html.EditorFor(x => x.OneCikan)
+
+                </div>
+
+                <div class="form-group">
+                    <label>Kategori</label>
+                    @Html.DropDownListFor(x => x.KategoriId, (List<SelectListItem>)ViewBag.dgr1, new { @class = "form-control" })
+                </div>
+
+              
+                <button class="btn btn-primary" type="submit">Güncelle</button>
+
+                <a href="/Urun/Index/" class="btn btn-success" style="margin-left:12px;">Ürün Listesi</a>
+            </form>
+        </div>
+    </div>
+</div>
+

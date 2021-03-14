@@ -1,0 +1,404 @@
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\E-Commerce.dll.config
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\E-Commerce.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\E-Commerce.pdb
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\csc.exe
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\csc.exe.config
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\csc.rsp
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\csi.exe
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\csi.exe.config
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\csi.rsp
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.AppContext.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Console.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Net.Http.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\vbc.exe
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\vbc.exe.config
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\vbc.rsp
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Helpers.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Mvc.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Razor.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Webpages.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Razor.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Webpages.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Helpers.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\System.Web.Mvc.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\tr\System.Web.Razor.resources.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csprojAssemblyReference.cache
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CopyComplete
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\obj\Debug\E-Commerce.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\obj\Debug\E-Commerce.pdb
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\EntityFramework.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\EntityFramework.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Newtonsoft.Json.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Owin.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Newtonsoft.Json.xml
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WİNDOWS\Desktop\ASP.NET\MVC PROJE\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\E-Commerce.dll.config
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\E-Commerce.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\E-Commerce.pdb
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\csc.exe
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\csc.exe.config
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\csc.rsp
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\csi.exe
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\csi.exe.config
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\csi.rsp
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.AppContext.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Console.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Net.Http.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\vbc.exe
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\vbc.exe.config
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\vbc.rsp
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\EntityFramework.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Newtonsoft.Json.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Owin.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Helpers.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Mvc.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Razor.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Webpages.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\EntityFramework.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Newtonsoft.Json.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Razor.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Webpages.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Helpers.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\System.Web.Mvc.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\tr\System.Web.Razor.resources.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CopyComplete
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\obj\Debug\E-Commerce.dll
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\obj\Debug\E-Commerce.pdb
+C:\Users\eryka\Desktop\E-Commerce (1)\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csprojAssemblyReference.cache
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.dll.config
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.pdb
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csc.exe
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csc.exe.config
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csc.rsp
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csi.exe
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csi.exe.config
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csi.rsp
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.AppContext.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Console.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Net.Http.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\vbc.exe
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\vbc.exe.config
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\vbc.rsp
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Newtonsoft.Json.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Owin.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Helpers.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Mvc.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Razor.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Newtonsoft.Json.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Razor.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Helpers.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Mvc.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csprojAssemblyReference.cache
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CopyComplete
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.dll
+C:\Users\Salih Selim Sekerci\Downloads\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.pdb
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.dll.config
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\E-Commerce.pdb
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csc.exe
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csc.exe.config
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csc.rsp
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csi.exe
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csi.exe.config
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\csi.rsp
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.AppContext.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Console.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Net.Http.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\vbc.exe
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\vbc.exe.config
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\vbc.rsp
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Newtonsoft.Json.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Owin.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Helpers.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Mvc.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Razor.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Newtonsoft.Json.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Razor.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Webpages.Razor.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Helpers.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\System.Web.Mvc.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csprojAssemblyReference.cache
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CopyComplete
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.dll
+C:\Users\Salih Selim Sekerci\Source\Repos\E-Commerce\E-Commerce\E-Commerce\E-Commerce\obj\Debug\E-Commerce.pdb

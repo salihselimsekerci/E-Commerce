@@ -1,0 +1,50 @@
+﻿@using E_Commerce.Models
+@model IEnumerable<UserOrder>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="span12">
+
+        <div class="well well-small">
+           
+                <table class="table table-bordered table-condensed">
+                    <thead>
+                        <tr>
+                            <th>Sipariş Numarası</th>
+                            <th>Sipariş Tarihi</th>
+                            <th>Toplam Tutar TL </th>
+                            <th>Sipariş Durum</th>
+                        
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                       @foreach (var item in Model)
+                       {
+                           <tr>
+                               <td>@item.OrderNumber</td>
+                               <td>@item.OrderDate</td>
+                               <td>@item.ToplamFiyat</td>
+                               <td>@item.OrderState</td>
+                               <td>@Html.ActionLink("Sipariş Detay","Details",new { id=@item.Id},new { @class="btn btn-primary"})</td>
+                           </tr>
+                       }
+                    </tbody>
+                </table><br />
+            
+           
+
+
+
+
+
+            <a href="/Home/Index/" class="shopBtn btn-large"><span class="icon-arrow-left"></span>Alışverişe Devam Et </a>
+            <a href="/Cart/SiparisDetay/" class="shopBtn btn-large pull-right">Sipariş Ver <span class="icon-arrow-right"></span></a>
+
+        </div>
+    </div>
+</div>
+

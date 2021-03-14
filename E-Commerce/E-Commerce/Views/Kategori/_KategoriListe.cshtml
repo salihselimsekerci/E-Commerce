@@ -1,0 +1,11 @@
+﻿
+@using E_Commerce.Models
+@model IEnumerable<KategoriModel>
+
+<li><a href="/Home/Urun/"><span class="icon-chevron-right"></span>TÜM ÜRÜNLER</a></li>
+@foreach (var item in Model)
+{
+    <li><a href="/Home/UrunList/@item.Id"><span class="icon-chevron-right"></span>@item.Ad [@item.Count]</a></li>
+}
+
+

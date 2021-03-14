@@ -1,0 +1,38 @@
+﻿@using E_Commerce.Entity
+@model IEnumerable<Kategori>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@*<head>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>*@
+<br />
+<br />
+<a class="btn btn-primary" href="/Kategori/Ekle/">
+    Yeni Kategori Ekle
+</a>
+<br />
+<br />
+<table class="table table-bordered">
+    <tr>
+       
+        <th>Ad</th>
+        <th>Açıklama</th>
+        <th>Sil</th>
+        <th>Düzenle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+        
+            <td>@item.Ad</td>
+            <td>@item.Aciklama</td>
+            <td>@Html.ActionLink("Sil", "Sil", new { id = item.Id }, new { @class = "btn btn-danger", onclick = "return confirm('Silmek İstiyor musunuz?')" })</td>
+            <td><a href="/Kategori/Guncelle/@item.Id" class="btn btn-warning">Düzenle</a></td>
+        </tr>
+    }
+</table>
+
+
+
